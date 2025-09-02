@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Suyash Sreekumar
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there, I'm Suyash Sreekumar <img src="https://komarev.com/ghpvc/?username=suyash8991&style=plastic&color=00d9ff&labelColor=000000"  align="right"/>
 
 <div align="center">
   
@@ -95,11 +95,23 @@
 ---
 
 ## 🌱 Currently
-- 🎓 **Studying:** Advanced AI/ML techniques at Oregon State University  
-- 👨‍🏫 **Teaching:** Database design & software development to 100+ students  
-- 🔬 **Researching:** Next-generation RAG systems and LLM optimization  
-- ☁️ **Learning:** Advanced cloud architectures and MLOps practices  
+- 🎓 **Graduate : ** MS in CS with minor in AI at Oregon State University  
+- 👨‍🏫 **Mentored students :** Database design & software development to 100+ students  
+- 🔬 **Developed :** Next-generation RAG systems and LLM optimization  
+- ☁️ **Learning:** GenAI 
 - 💡 **Building:** Intelligent systems that solve real-world problems  
+
+---
+
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 🔥 Coding Streak
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash8991&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="60%" />
+
+</div>
 
 ---
 
