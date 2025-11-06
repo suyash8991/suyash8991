@@ -109,7 +109,7 @@
 <div align="center">
 
 ### 🔥 Coding Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suyash8991&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="60%" />
+<img src="https://github-readme-streak-stats.vercel.app?user=suyash8991&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="60%" />
 
 </div>
 
